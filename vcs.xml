@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/kuttnerdd/exam-manager.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/B03hmi1986/JavaFX" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Marco\Google Drive\Studium\Semester 8\SWP\projects\Intelij" />
